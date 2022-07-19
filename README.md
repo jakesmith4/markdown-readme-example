@@ -14,4 +14,6 @@
 
 Click here to go to [Udemy](https://www.udemy.com "Google's home page")
 
-![Udemy Logo](./udemy.png)
+---
+
+[![Udemy Logo](./udemy.png)](https://www.google.com "Google's home page")
